@@ -1,5 +1,8 @@
 # Vue-Leaflet
 
+Using the following vue-cli on Docker template;
+- [shinyay/docker-node-template](https://github.com/shinyay/docker-node-template)
+
 ## Description
 
 ## Demo
