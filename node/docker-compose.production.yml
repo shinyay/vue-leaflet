@@ -1,0 +1,10 @@
+version: '3'
+services:
+  leaflet:
+    build:
+      context: vue
+      dockerfile: Dockerfile.production
+    image: shinyay/leaflet
+    container_name: leaflet
+    ports:
+      - 80:80
